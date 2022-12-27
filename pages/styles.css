@@ -396,14 +396,14 @@ textarea {
     .prompt-buttons {
         justify-content: center;
     }
-
+    /*it is these two to control mobile width*/
     .prompt-container {
         max-width: 400px;
-        width: 100%;
+        width: 75%;
     }
 
     .prompt-box {
-        width: 100%;
+        width: 75%;
     }
 }
 
