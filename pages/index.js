@@ -43,7 +43,9 @@ const Home = () => {
             <h1>ICD Code Generator</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Enter a diagnosis; get the corresponding ICD-9/10 codes in return!</h2>
+            <h2>1. Enter a diagnosis.</h2>
+            <h2>2. Get corresponding ICD-9/10 codes in return.</h2>
+            <h2>3. Verify independently!</h2>
             <h2>Powered by GPT-3.</h2>
           </div>
         </div>
