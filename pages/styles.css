@@ -91,7 +91,7 @@ body {
     height: min-content;
     padding: 0px;
     /*previously min-content*/
-    width: 50%;
+    width: min-content;
 }
 
 .prompt-box {
