@@ -74,7 +74,7 @@ body {
     bottom: 0;
     left: 0;
     width: 100%;
-    height: 90px;
+    height: 10px;
     background-color: white;
     font-size: 18px;
     font-weight: bold;
@@ -112,7 +112,7 @@ body {
     overflow: hidden;
     padding: 20px;
     position: relative;
-    width: 450px;
+    width: 250px;
     max-width: 1200px;
     will-change: transform;
     overflow: auto;
@@ -191,7 +191,7 @@ textarea {
     border-radius: 100px;
     display: flex;
     flex: 0 0 auto;
-    flex-flow: row nowrap;
+    flex-flow: column nowrap;
     gap: 10px;
     height: min-content;
     overflow: hidden;
