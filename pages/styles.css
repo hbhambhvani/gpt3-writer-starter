@@ -351,11 +351,11 @@ textarea {
 
     .prompt-container {
         max-width: 600px;
-        width: 50%;
+        width: 100%;
     }
 
     .prompt-box {
-        width: 50%;
+        width: 100%;
     }
 }
 
