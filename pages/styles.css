@@ -367,11 +367,11 @@ textarea {
 
     .prompt-container {
         max-width: 500px;
-        width: 50%;
+        width: 100%;
     }
 
     .prompt-box {
-        width: 50%;
+        width: 100%;
     }
 }
 
