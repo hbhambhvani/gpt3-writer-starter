@@ -114,7 +114,7 @@ body {
     padding: 20px;
     position: relative;
     /* editing here, prev 610px*/
-    width: 50%;
+    width: 610px;
     max-width: 1200px;
     will-change: transform;
     overflow: auto;
