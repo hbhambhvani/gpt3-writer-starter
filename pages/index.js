@@ -84,7 +84,7 @@ const Home = () => {
   </div>
   </div>
       <div className="footer testing">
-      Built with love by&nbsp;
+      Built by&nbsp;
       < a href="https://twitter.com/hbhambhvani">@hbhambhvani</a>
       </div>
     </div>
