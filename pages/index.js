@@ -66,6 +66,7 @@ const Home = () => {
   </a>
 </div>
 
+
 {apiOutput && (
   <div className="output">
     <div className="output-header-container">
