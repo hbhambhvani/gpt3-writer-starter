@@ -44,6 +44,7 @@ const Home = () => {
           </div>
           <div className="header-subtitle">
             <h2>Enter a diagnosis; get the corresponding ICD-9/10 codes in return!</h2>
+            <h2>Powered by GPT-3.</h2>
           </div>
         </div>
         <div className="prompt-container">
