@@ -90,7 +90,8 @@ body {
     gap: 16px;
     height: min-content;
     padding: 0px;
-    width: min-content;
+    /*previously min-content*/
+    width: 50%;
 }
 
 .prompt-box {
@@ -112,7 +113,8 @@ body {
     overflow: hidden;
     padding: 20px;
     position: relative;
-    width: 610px;
+    /* editing here, prev 610px*/
+    width: 50%;
     max-width: 1200px;
     will-change: transform;
     overflow: auto;
@@ -365,11 +367,11 @@ textarea {
 
     .prompt-container {
         max-width: 500px;
-        width: 100%;
+        width: 50%;
     }
 
     .prompt-box {
-        width: 100%;
+        width: 50%;
     }
 }
 
@@ -397,11 +399,11 @@ textarea {
 
     .prompt-container {
         max-width: 400px;
-        width: 100%;
+        width: 50%;
     }
 
     .prompt-box {
-        width: 100%;
+        width: 50%;
     }
 }
 
