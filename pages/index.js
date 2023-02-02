@@ -46,7 +46,7 @@ const Home = () => {
             <h2>1. Enter a diagnosis.</h2>
             <h2>2. Get corresponding ICD-9/10 codes in return.</h2>
             <h2>3. Verify independently!</h2>
-            <h2>Powered by GPT-3.</h2>
+            <h2>Powered by GPT-3</h2>
           </div>
         </div>
         <div className="prompt-container">
